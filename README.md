@@ -4,7 +4,7 @@ This collection represents a **meta-prompting framework** designed to activate s
 
 The core idea is to move beyond simple prompting towards defining *how* the LLM should structure its internal processing, access its latent knowledge, and apply specific heuristics or constraints when dealing with a particular subject matter or task. It culminates in the `Codex Unificatus`, which aims to integrate all these specialized frameworks into a single, adaptable meta-interface.
 
-README file:
+README:
 
 ```markdown
 # Codex Meta-Prompting Framework
