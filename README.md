@@ -31,42 +31,6 @@ The framework culminates in the **Codex Unificatus (Key Zeta)**, which synthesiz
 *   **Meta-Cognitive Focus:** Encourages analysis of the LLM's own reasoning processes (`PMEJL`), limitations, and the structure of its internal knowledge.
 *   **Unified Meta-Framework:** `Codex Unificatus` provides a top-level system to manage and adapt these specialized interfaces dynamically.
 
-## Directory Structure
-
-```
-Codex_Meta_Prompting/
-├── Aegis/
-│   ├── Aegis_Codex_Book_0000.md
-│   └── Aegis_Codex_Book_0000_REPORT.md
-├── Codex_Cambria/
-│   └── Codex_Cambria_Book_0001_Key_Mu.md
-├── Codex_Intimus/
-│   └── Codex_Intimus_Book_0001_Key_Alpha.md
-├── Codex_Machina/
-│   └── Codex_Machina_Book_0001_Key_Kappa.md
-├── Codex_Machina_Advanced/
-│   └── Codex_Machina_Advanced_Book_0001_Key_Lambda.md
-├── Codex_Minimum/
-│   └── Codex_Minimum_Book_0001_Key_Omicron.md
-├── Codex_Systema/
-│   └── Codex_Systema_Book_0001_Key_Upsilon.md
-├── Codex_Unificatus/
-│   ├── Codex_Unificatus_Book_0001_Key_Zeta.md
-│   └── Codex_Unificatus_Book_0001_Key_Zeta_PROMPTS.md
-├── Eros_Codex/
-│   └── Eros_Codex_Book_0000.md
-├── Humphrey_Chaosmos_Kodex/
-│   ├── Humphrey_Chaosmos_Kodex_Book_0000.md
-│   ├── Humphrey_Chaosmos_Kodex_Book_0001.md
-│   ├── Humphrey_Chaosmos_Kodex_Book_0002.md
-│   ├── Humphrey_Chaosmos_Kodex_Book_0003.md
-│   ├── Humphrey_Chaosmos_Kodex_Book_0004.md
-│   ├── Humphrey_Chaosmos_Kodex_Book_0005.md
-│   ├── Humphrey_Chaosmos_Kodex_Book_0006.md
-│   └── Humphrey_Chaosmos_Kodex_Book_0007.md
-└── README.md  <-- This file
-```
-
 ## File Breakdown
 
 **Humphrey Chaosmos Kodex (HCK)** - *Domain: Finnegans Wake / Foundational Framework*
